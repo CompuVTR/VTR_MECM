@@ -1,8 +1,10 @@
 
-## $\color{#0080FF}{rprSCCM.bat}$\
+## $\color{#80C0FF}{rprSCCM.bat}$
 _Repair SCCM_
+
 
 ===============================================  
 
-## $\color{#0080FF}{wusaiu.bat}$\
+
+## $\color{#80C0FF}{wusaiu.bat}$
 _Special wrapper for WUSA to install MSU or uninstall KB_
