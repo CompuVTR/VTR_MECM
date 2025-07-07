@@ -1,4 +1,4 @@
-# ![#0080FF]VTR_MECM
+# VTR_MECM`#0080FF`
 A set of useful scripts for SCCM.
 
 ## rprSCCM.bat
