@@ -1,4 +1,4 @@
-$${\color{red}Red}$$
+$\color{#FF0000}{like~this!}$
 
 ## rprSCCM.bat
 _$${\color{lightblue}Repair SCCM}$$_  
