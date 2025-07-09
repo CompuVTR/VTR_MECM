@@ -1,13 +1,12 @@
-
-## $\color{#800000}{rprSCCM.bat}$
-Repair SCCM
-<br>
-<br>
-## $\color{#80C0FF}{wusaiu.bat}$
-Special wrapper for WUSA to install MSU or uninstall KB
-<br>
-<br>
-<br>
-## $\color{#80C0FF}{Add-CfgMgrCmdlets.ps1}$
-Run Configuration Manager cmdlets and scripts in PowerShell
+<dl>
+  <dt>rprSCCM.bat</dt>
+  <dd>Repair SCCM</dd>
+  <br>
+  <dt>wusaiu.bat</dt>
+  <dd>Special wrapper for WUSA to install MSU or uninstall KB</dd>
+  <br>
+  <br>
+  <dt>Add-CfgMgrCmdlets.ps1</dt>
+  <dd>Run Configuration Manager cmdlets and scripts in PowerShell</dd>
+</dl>
 <br>
